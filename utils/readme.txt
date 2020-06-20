@@ -22,3 +22,9 @@ ATOM  remote-ftp
     "watch": [],
     "watchTimeout": 500
 }
+
+
+workbench
+
+https://dev.mysql.com/get/Downloads/MySQLGUITools/mysql-workbench-community-8.0.20-winx64.msi
+
